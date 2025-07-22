@@ -54,7 +54,8 @@ export const Footer = () => {
       </div>
       <div className="w-full mt-2">
         <div className="max-w-6xl mx-auto text-base text-neutral-400 text-center py-2 px-4 md:px-8">
-          {new Date().getFullYear()} DronePro. Wszelkie prawa zastrzeżone.
+          {new Date().getFullYear()} DronePro. Wszelkie prawa do cwelenia Góry
+          zastrzeżone.
         </div>
       </div>
     </footer>
